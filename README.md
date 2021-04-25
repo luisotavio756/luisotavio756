@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 # 🕵️‍♀️ Github Profile
 
 ### 📲 Contact me
-![Linkedin Badge](https://img.shields.io/badge/-LuisOtavio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-ot%C3%A1vio-87851517a/) ![Gmail Badge](https://img.shields.io/badge/-luis.otavio2425@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.otavio2425@gmail.com)
-![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5588997542399)
+![Gmail Badge](https://img.shields.io/badge/-luis.otavio2425@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.otavio2425@gmail.com)
 -
 ### 👩‍💻 About me
 My name is Luis Otávio, and I'm from Ceará, Brazil. Now, I work like a FrontEnt Engineer in GreenMile BR, located in Fortaleza, Ceará, Brasil. My love is contribute with my team, and made amazing things with the best techologies like React, Next.Js and others.
