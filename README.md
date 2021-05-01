@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### 📲 Contact me
 ![Gmail Badge](https://img.shields.io/badge/-luis.otavio2425@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.otavio2425@gmail.com)
+:male-office-worker: [LinkedIn](https://www.linkedin.com/in/luisotavio756/)
 -
 ### 👩‍💻 About me
 My name is Luis Otávio, and I'm from Ceará, Brazil. Now, I work like a FrontEnt Engineer in GreenMile BR, located in Fortaleza, Ceará, Brasil. My love is contribute with my team, and made amazing things with the best techologies like React, Next.Js and others.
