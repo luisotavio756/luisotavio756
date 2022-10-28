@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 [LinkedIn](https://www.linkedin.com/in/luisotavio756/)
 
 ### 👩‍💻 About me
-My name is Luis Otávio, and I'm from Ceará, Brazil. Now, I work like a FrontEnt Engineer in GreenMile BR, located in Fortaleza, Ceará, Brasil. My love is contribute with my team, and made amazing things with the best techologies like React, Next.Js and others.
+My name is Luis Otávio, and I'm from Ceará, Brazil. Nowadays, I work as a FrontEnt Engineer at Descartes BR, located in Fortaleza, Ceará, Brasil. I like to contribute to my team and to the dev's community.
+
+Nowadays, I'm working directly with JavaScript stack: React.JS, Node.js, Nest.js, Next.js and other technologies.
 
 <a href="https://github.com/luisotavio756">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisotavio756&show_icons=true&theme=dark&show_icons=true&line_height=24&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0D1117" alt="Luis Otávio github stats"/>
